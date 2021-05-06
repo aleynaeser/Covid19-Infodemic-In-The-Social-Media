@@ -9,3 +9,4 @@ In this case, the fake news produced during the epidemic period spread just like
 The World Health Organization defined this situation as the Misinformation Pandemic with the term "Infodemic". 
 The purpose of this study is to examine which İnfodemic about Covid 19 generally published on social media, how and through which channels.
 In many countries of the world, verification platforms that work to combat fake news have examined thousands of suspicious content and informed their readers by verifying this information, especially from social media. I will analyse these social media platforms about verifying misinformation and spreading of misinformation in the most popular platforms.
+ 
