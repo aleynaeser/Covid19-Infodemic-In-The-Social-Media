@@ -2,7 +2,7 @@
 
 <hr width="100%" color="#555" size="10">
 
-<p> <font face="tahoma" size="12" color="maroon">
+<p> <font face="tahoma" size="20" color="white">
 <b>
  Social media appear as very important channels for accessing, producing and sharing news. With the outbreak of the COVID-19 pandemic, people turned to social media to read and to share timely information including statistics, warnings, advice, and inspirational stories. Unfortunately, alongside all this useful information, there was also a new blending of medical and political misinformation and disinformation, which gave rise to the first global infodemic.
 The COVID-19 Pandemic has brought a new dimension to the fake news problem. Thusly, misinformation as an important problem in the social environment and it cause to mislead the society and create perception.
