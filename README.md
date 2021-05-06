@@ -1,6 +1,6 @@
 # Covid19-Infodemic/Misinformation-In-The-Social-Media
 
-<hr width="100%" color="#555" size="10">
+<hr width="100%" color="maroon" size="10">
 
 <p>
 <b>
@@ -9,6 +9,6 @@ Social media appear as very important channel for accessing, producing and shari
 
  </p>
 </b>
-<hr width="100%" color="#555" size="10">
+<hr width="100%" color="maroon" size="10">
 
 
