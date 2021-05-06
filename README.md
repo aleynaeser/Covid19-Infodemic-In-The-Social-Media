@@ -11,7 +11,7 @@ The World Health Organization defined this situation as the Misinformation Pande
 The purpose of this study is to examine which Infodemic about Covid 19 generally published on social media, how and through which channels.
 In many countries of the world, verification platforms that work to combat fake news have examined thousands of suspicious content and informed their readers by verifying this information, especially from social media. I will visualize these social media platforms which verify misinformation and spreading of infodemic in the most popular platforms.
  
- 
+ </font>
  </p>
 </b>
 <hr width="100%" color="#555" size="10">
