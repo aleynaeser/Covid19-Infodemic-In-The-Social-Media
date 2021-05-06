@@ -1,4 +1,5 @@
-# Misinformation-Infodemic-on-Social-media-related-to-the-Covid-19-pandemic
+#  Covid19-Infodemic/Misinformation-In-The-Social-Media
+
 
 Social media appear as very important channels for accessing, producing and sharing the news.
 In this case, Social media plays an important role in spreading Covid 19 news and informations. 
