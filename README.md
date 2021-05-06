@@ -1,6 +1,8 @@
 # Covid19-Infodemic/Misinformation-In-The-Social-Media
 
 <hr width="100%" color="#555" size="10">
+
+<p style="color:white">
 <b>
  Social media appear as very important channels for accessing, producing and sharing news. With the outbreak of the COVID-19 pandemic, people turned to social media to read and to share timely information including statistics, warnings, advice, and inspirational stories. Unfortunately, alongside all this useful information, there was also a new blending of medical and political misinformation and disinformation, which gave rise to the first global infodemic.
 The COVID-19 Pandemic has brought a new dimension to the fake news problem. Thusly, misinformation as an important problem in the social environment and it cause to mislead the society and create perception.
@@ -9,6 +11,8 @@ The World Health Organization defined this situation as the Misinformation Pande
 The purpose of this study is to examine which Infodemic about Covid 19 generally published on social media, how and through which channels.
 In many countries of the world, verification platforms that work to combat fake news have examined thousands of suspicious content and informed their readers by verifying this information, especially from social media. I will visualize these social media platforms which verify misinformation and spreading of infodemic in the most popular platforms.
  
+ 
+ </p>
 </b>
 <hr width="100%" color="#555" size="10">
 
