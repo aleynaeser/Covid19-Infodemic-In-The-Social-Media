@@ -22,7 +22,7 @@
 
  ## _Visualization Tools_
  
- ##### _I prefer to use Datawrapper, Google Data Studio and Google Chart visualization tools because these tools are free and i can visualize my data easily with using different graphs by them._
+ #### _I prefer to use Datawrapper, Google Data Studio and Google Chart visualization tools because these tools are free and i can visualize my data easily with using different graphs by them._
  
  
  
