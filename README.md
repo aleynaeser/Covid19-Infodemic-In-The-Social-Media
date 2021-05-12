@@ -1,6 +1,8 @@
 # Covid19-Infodemic/Misinformation-In-The-Social-Media
  
- 
+ ## _Problem_
+
+#### _Covid-19 Infodemic/Misinformation In The Social Media_
 
  
  ## _Problem Description_
@@ -9,5 +11,34 @@
  
 
  ## _Introduction_
+ 
+
+ ## _Visualization Tools _
+ 
+ #### _I prefer to use Datawrapper, Google Data Studio and Google Chart visualization tools because these tools are free and i can visualize my data easily with using different graphs by them._
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 
