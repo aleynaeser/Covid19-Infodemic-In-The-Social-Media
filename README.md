@@ -54,7 +54,7 @@
  
  
  
- * _FakeCovid is a data set of 7623 fact-checked news articles for COVID-19, collected from 04/01/2020 to 01/07/2020. The ultimately generated data set is in 40 languages from 105 countries. It has 5 files._
+ * _FakeCovid is a data set of 7623 fact-checked news articles for COVID-19, collected from 04/01/2020 to 01/07/2020. It has 5 files._
  
  ------> https://github.com/Gautamshahi/FakeCovid/tree/master/data
  
