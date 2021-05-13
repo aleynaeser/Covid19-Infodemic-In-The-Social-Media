@@ -58,7 +58,16 @@
  
  ------> https://github.com/Gautamshahi/FakeCovid/tree/master/data
  
- 
+ * _ Also, i collected other data sets and created its tables. It is in the data file of my repository. I use these reliable sources as follows.
+
+https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
+
+https://dergipark.org.tr/en/download/article-file/1532044
+
+https://dergipark.org.tr/tr/download/article-file/1238220
+
+https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation
+
  
  
  
