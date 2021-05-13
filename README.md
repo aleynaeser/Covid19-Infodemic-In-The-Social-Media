@@ -32,7 +32,7 @@
  
  
   
- #### _I need to collect the necessary data in order to visualize data. In this case, I found the data sets from trusted sources on the Internet and created my own data sets and tables. Below are detailed information about the data sets and the addresses of the resources._
+ #### _I need to collect the necessary data in order to visualize data. In this case, I found the data sets from trusted sources on the Internet and created my own data sets and tables. Below are detailed information about the data sets and the addresses of them._
  
  
  * _I found these data sets in the Covid19 Infodemics Observatory website. In this website, there is a data file for each country but i use 2 data set file such as World and Turkey. With these data sets, I will use it to visualize the risk of Infodemic in some countries around the world and Turkey in May 2021._
@@ -47,9 +47,6 @@
  
  
  
- 
- 
- 
  * _COVID-19 healthcare misinformation data set includes fake news on websites and social platforms, along with users' social engagement about such news. It includes 5,216 news, 296,752 related user engagements, 958 social platform posts about COVID-19, and ground truth labels. It has 42 files._
  
  ------> https://github.com/cuilimeng/CoAID
@@ -60,6 +57,23 @@
  * _FakeCovid is a data set of 7623 fact-checked news articles for COVID-19, collected from 04/01/2020 to 01/07/2020. The ultimately generated data set is in 40 languages from 105 countries. It has 5 files._
  
  ------> https://github.com/Gautamshahi/FakeCovid/tree/master/data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
