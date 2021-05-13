@@ -81,7 +81,10 @@
 
 * WHO, Managing Covid19 Infodemic, 23 September 2020, https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation
 
- 
+* Gautam Shahi, 2 Oct 2020, https://github.com/Gautamshahi/FakeCovid
+
+* Limeng Cui, 12 Jan 2021, https://github.com/cuilimeng/CoAID
+
  
  
  
