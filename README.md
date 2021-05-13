@@ -35,7 +35,7 @@
  #### _I need to collect the necessary data in order to visualize data. In this case, I found the data sets from trusted sources on the Internet and created my own data sets and tables. Below are detailed information about the data sets and the addresses of them._
  
  
- * _I found these data sets in the Covid19 Infodemics Observatory website. In this website, there is a data file for each country but i use 2 data set file such as World and Turkey. With these data sets, I will use it to visualize the risk of Infodemic in some countries around the world and Turkey in May 2021._
+ * _I found these data sets in the Covid19 Infodemics Observatory website. In this website, there is a file for each country but i use 2 data set file such as World and Turkey. With these data sets, I will use it to visualize the risk of Infodemic in some countries around the world and Turkey in May 2021._
  
  ##### _This data set currently includes Infodemic in all countries in the world._
  
