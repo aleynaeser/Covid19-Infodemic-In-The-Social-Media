@@ -28,6 +28,66 @@
  #### _I prefer to use Datawrapper, Google Data Studio and Google Chart visualization tools because these tools are free and i can visualize my data easily with using different graphs by them._
  
  
+  ## _Data Gathering_
+ 
+ 
+  
+ #### _I need to collect the necessary data in order to visualize data. In this case, I found the data sets from trusted sources on the Internet and created my own data sets and tables. Below are detailed information about the data sets and the addresses of the resources._
+ 
+ 
+ * _With these data sets, I will use it to visualize the risk of Infodemic in some countries around the world and Turkey in May 2021._
+ 
+ ##### _This data set currently includes Infodemic in all countries in the world._
+ 
+  ------> http://covid19obs.fbk.eu/assets/timeseries/_WORLD.csv
+ 
+ ##### _This data set evaluates Infodemic in Turkey._
+ 
+ ------> http://covid19obs.fbk.eu/assets/timeseries/TUR.csv
+ 
+ 
+ 
+ 
+ 
+ 
+ * _COVID-19 healthcare misinformation data set includes fake news on websites and social platforms, along with users' social engagement about such news. It includes 5,216 news, 296,752 related user engagements, 958 social platform posts about COVID-19, and ground truth labels. It has 42 files._
+ 
+ ------> https://github.com/cuilimeng/CoAID
+ 
+ 
+ 
+ 
+ * _FakeCovid is a data set of 7623 fact-checked news articles for COVID-19, collected from 04/01/2020 to 01/07/2020. The ultimately generated data set is in 40 languages from 105 countries. It has 5 files._
+ 
+ ------> https://github.com/Gautamshahi/FakeCovid/tree/master/data
+ 
+ 
+ 
+ 
+ 
+ ## _References_
+* Brennen, J. S., Simon, F. M., & Nielsen, R. K. (2021). Beyond (Mis)Representation: Visuals in COVID-19 Misinformation. The International Journal of Press/Politics, 26(1), 277–299. https://doi.org/10.1177/1940161220964780
+
+
+* CoMuNe Lab, Covid19 Infodemics Observatory, 10 May 2021, https://covid19obs.fbk.eu/#/
+
+* Covid19 Misinformation, https://en.wikipedia.org/wiki/COVID-19_misinformation
+
+* Göksu Bozdereli BERİKOL, Covid19 ve İnfodemi, 21 April 2020, https://acilci.net/covid-19-ve-infodemi/
+
+* Susan Li, Explore COVID-19 Infodemic, 28 May 2020, https://towardsdatascience.com/explore-covid-19-infodemic-2d1ceaae2306
+
+* WHO, https://www.who.int/health-topics/infodemic
+
+* WHO, Managing Covid19 Infodemic, 23 September 2020, https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
