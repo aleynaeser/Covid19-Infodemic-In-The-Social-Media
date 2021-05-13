@@ -37,21 +37,15 @@
  
  * _I found these data sets in the Covid19 Infodemics Observatory website. In this website, there is a file for each country but i use 2 data set file such as World and Turkey. With these data sets, I will use it to visualize the risk of Infodemic in some countries around the world and Turkey in May 2021._
  
- ##### _This data set currently includes Infodemic in all countries in the world._
+ ##### _This data set currently includes Infodemic in all countries in the world._      ------> http://covid19obs.fbk.eu/assets/timeseries/_WORLD.csv
  
-  ------> http://covid19obs.fbk.eu/assets/timeseries/_WORLD.csv
- 
- ##### _This data set evaluates Infodemic in Turkey._
- 
- ------> http://covid19obs.fbk.eu/assets/timeseries/TUR.csv
+ ##### _This data set evaluates Infodemic in Turkey._            ------> http://covid19obs.fbk.eu/assets/timeseries/TUR.csv
  
  
  
  * _COVID-19 healthcare misinformation data set includes fake news on websites and social platforms, along with users' social engagement about such news. It includes 5,216 news, 296,752 related user engagements, 958 social platform posts about COVID-19, and ground truth labels. It has 42 files._
  
  ------> https://github.com/cuilimeng/CoAID
- 
- 
  
  
  * _FakeCovid is a data set of 7623 fact-checked news articles for COVID-19, collected from 04/01/2020 to 01/07/2020. It has 5 files._
