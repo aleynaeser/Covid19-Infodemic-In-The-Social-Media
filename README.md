@@ -57,7 +57,7 @@
 
 
  *  _People's attitude to misinformation among 800 people._ (23 Feb - 27 Feb 2021)  
- *  
+  
  ------> https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
 
  *  _Sources of Covid 19 Misinformation among 100 content._ (2021) 
