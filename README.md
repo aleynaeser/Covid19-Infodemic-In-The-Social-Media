@@ -37,9 +37,9 @@
  
  * _I found these data sets in the Covid19 Infodemics Observatory website. In this website, there is a file for each country but i use 2 data set file such as World and Turkey. With these data sets, I will use it to visualize the risk of Infodemic in some countries around the world and Turkey in May 2021._
  
- ##### _This data set currently includes Infodemic in all countries in the world._      ------> http://covid19obs.fbk.eu/assets/timeseries/_WORLD.csv
+ #### _This data set currently includes Infodemic in all countries in the world._      ------> http://covid19obs.fbk.eu/assets/timeseries/_WORLD.csv
  
- ##### _This data set evaluates Infodemic in Turkey._            ------> http://covid19obs.fbk.eu/assets/timeseries/TUR.csv
+ #### _This data set evaluates Infodemic in Turkey._            ------> http://covid19obs.fbk.eu/assets/timeseries/TUR.csv
  
  
  
