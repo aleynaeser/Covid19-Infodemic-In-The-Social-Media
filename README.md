@@ -54,6 +54,8 @@
  
  * _ Also, i collected other data sets and created its tables. It is in the data file of my repository. I use these reliable sources as follows._
 
+
+
 https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
 
 https://dergipark.org.tr/en/download/article-file/1532044
