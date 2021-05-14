@@ -52,44 +52,27 @@
  
  ------> https://github.com/Gautamshahi/FakeCovid/tree/master/data
  
- * _ Also, i collected other data sets and created its tables. It is in the data file of my repository. I use these reliable sources as follows._
+ 
+ * _Also, i collected other data sets and created its tables. It is in the data file of my repository. I use these reliable sources as follows._
 
 
+ *  _People's attitude to misinformation among 800 people._ (23 Feb - 27 Feb 2021)  
+ ------> https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
 
+ *  _Sources of Covid 19 Misinformation among 100 content._ (2021) 
 
+ ------> https://dergipark.org.tr/en/download/article-file/1532044
+ 
+  *  _Types and Topics of Covid 19 Misinformation among 300 content._ (2021) 
 
+ ------>  https://dergipark.org.tr/tr/download/article-file/1238220
 
-https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
+ ------>  https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation
 
-https://dergipark.org.tr/en/download/article-file/1532044
-
-https://dergipark.org.tr/tr/download/article-file/1238220
-
-https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  ## _References_
+ 
 * Brennen, J. S., Simon, F. M., & Nielsen, R. K. (2021). Beyond (Mis)Representation: Visuals in COVID-19 Misinformation. The International Journal of Press/Politics, 26(1), 277–299. https://doi.org/10.1177/1940161220964780
-
 
 * CoMuNe Lab, Covid19 Infodemics Observatory, 10 May 2021, https://covid19obs.fbk.eu/#/
 
@@ -105,11 +88,16 @@ https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-mis
 
 * Gautam Shahi, 2 Oct 2020, https://github.com/Gautamshahi/FakeCovid
 
-* Limeng Cui, 12 Jan 2021, https://github.com/cuilimeng/CoAID
+* Reuters Institute, University of Oxford, 7 April 2020, https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation
 
- 
- 
- 
+* Ipsos, 1 Feb 2021, https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
+
+* Topsakal, T. (2021). Dijital ortamda yanlış bilgi ve haberlerin yayılması: Koronavirüs salgın haberlerine dair bir inceleme. İNİF E- Dergi, 6(1), 382-400
+
+* Akyüz, S. S. (2020). Yanlış Bilgi Salgını: COVID-19 Salgını Döneminde Türkiye’de Dolaşıma Giren Sahte Haberler. Akdeniz Üniversitesi İletişim Fakültesi Dergisi, 34, 422-444. DOI: 10.31123/akil.779920.
+
+
+
  
  
  
