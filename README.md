@@ -56,6 +56,9 @@
 
 
 
+
+
+
 https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
 
 https://dergipark.org.tr/en/download/article-file/1532044
