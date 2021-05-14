@@ -70,6 +70,24 @@
  ------>  https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation
 
  
+  ## _The Challenges Of Data Gathering_
+ 
+  
+ #### _Infodemic has gained a new dimension with Covid 19. Thus, I encountered some difficulties in collecting the necessary data. I found several data sets on this subject on the Internet, but I had a hard time choosing the right and reliable sources. In this case, I created a list of sources to collect data from the right sources, examined all of them one by one and selected the appropriate data sets from some websites and articles.Then, I started collecting data about Covid 19 through the Covid 19 Infodemic Observatory website, which renews the Infodemic risk index every day. I had difficulty in creating a data table by taking the first 15 days of May and saving the Infodemic risk data of every day in an excel file. Also, through this site, I found the data set containing the Infodemic risk indexes that have existed since the beginning of Covid 19._
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ## _References_
  
 * Brennen, J. S., Simon, F. M., & Nielsen, R. K. (2021). Beyond (Mis)Representation: Visuals in COVID-19 Misinformation. The International Journal of Press/Politics, 26(1), 277–299. https://doi.org/10.1177/1940161220964780
