@@ -64,7 +64,7 @@
 
  ------> https://dergipark.org.tr/en/download/article-file/1532044
  
-  *  _Types and Topics of Covid 19 Misinformation among 300 content._ (2021) 
+  *  _Types and Topics of Covid 19 Misinformation among 300 content._ (2020) 
 
  ------>  https://dergipark.org.tr/tr/download/article-file/1238220
 
