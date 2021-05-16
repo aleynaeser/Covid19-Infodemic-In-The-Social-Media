@@ -60,7 +60,7 @@
   
  ------> https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
 
- *  _Sources of Covid 19 Misinformation among 100 content._ (2021) 
+ *  _Sources of Covid 19 Misinformation among 100 content._ (2020) 
 
  ------> https://dergipark.org.tr/en/download/article-file/1532044
  
