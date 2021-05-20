@@ -37,9 +37,13 @@
  
  * _I found these data sets in the Covid19 Infodemics Observatory website. In this website, there is a file for each country but i use 2 data set file such as World and Turkey. With these data sets, I will use it to visualize the risk of Infodemic in some countries around the world and Turkey in May 2021._
  
- #### _This data set currently includes Infodemic in all countries in the world._      ------> http://covid19obs.fbk.eu/assets/timeseries/_WORLD.csv
+ #### _This data set currently includes Infodemic in all countries in the world._    
  
- #### _This data set evaluates Infodemic in Turkey._            ------> http://covid19obs.fbk.eu/assets/timeseries/TUR.csv
+ ------> http://covid19obs.fbk.eu/assets/timeseries/_WORLD.csv
+ 
+ #### _This data set evaluates Infodemic in Turkey._ 
+ 
+ ------> http://covid19obs.fbk.eu/assets/timeseries/TUR.csv
  
  
  
@@ -60,15 +64,13 @@
   
  ------> https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
 
- *  _Sources of Covid 19 Misinformation among 100 content._ (2020) 
+ *  _Resources of Covid 19 Misinformation among 100 content._ (2020) 
 
  ------> https://dergipark.org.tr/en/download/article-file/1532044
  
   *  _Types and Topics of Covid 19 Misinformation among 300 content._ (2020) 
 
  ------>  https://dergipark.org.tr/tr/download/article-file/1238220
-
- ------>  https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation
 
  
   ## _The Challenges Of Data Gathering_
