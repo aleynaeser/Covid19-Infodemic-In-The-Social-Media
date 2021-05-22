@@ -86,15 +86,11 @@
 
 * CoMuNe Lab, Covid19 Infodemics Observatory, 10 May 2021, https://covid19obs.fbk.eu/#/
 
-* Göksu Bozdereli BERİKOL, Covid19 ve İnfodemi, 21 April 2020, https://acilci.net/covid-19-ve-infodemi/
-
 * Susan Li, Explore COVID-19 Infodemic, 28 May 2020, https://towardsdatascience.com/explore-covid-19-infodemic-2d1ceaae2306
 
 * WHO, Managing Covid19 Infodemic, 23 September 2020, https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation
 
 * Gautam Shahi, 2 Oct 2020, https://github.com/Gautamshahi/FakeCovid
-
-* Reuters Institute, University of Oxford, 7 April 2020, https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation
 
 * Ipsos, 1 Feb 2021, https://www.ipsos.com/tr-tr/vatandas-salginla-ilgili-haberlerin-dogru-ya-da-yanlis-oldugunu-ayirt-etmekte-zorlaniyor
 
