@@ -7,6 +7,12 @@
 
 #### _Covid-19 Infodemic and Misinformation In The Social Media_
 
+
+ ## _Video_
+ 
+ 
+ ####  https://drive.google.com/file/d/1c9gRI6ESNFKYQltbxW3ZLHf1CQ9NDCHb/view?usp=sharing
+
  
  ## _Step A:Problem Description_
  
@@ -15,7 +21,7 @@
 
  ## _Introduction_
  
-#### _All around the world, the Covid 19 pandemic has created an unprecedented level of knowledge in the social media environment. Thus, the Covid 19 pandemic is accompanied by a worldwide Infodemic and misinformation. In this way Covid 19 was recorded as the first global infodemic. World Health Organization (WHO) named the “over-abundance of information” around the SARS-CoV-2 outbreak. Thusly, with the coming together of too much information, it caused the wrong and the right to be mixed with each other and the trust in the right information started to be affected as much. In the information age, this Infodemic phenomenon is amplified through social networks, spreading farther and faster like a virus._
+#### _All around the world, the Covid 19 pandemic has created an unprecedented level of knowledge in the social media environment. Thus, the Covid 19 pandemic is accompanied by a worldwide Infodemic and misinformation. In this way, Covid 19 was recorded as the first global infodemic. World Health Organization (WHO) named the “over-abundance of information” around the SARS-CoV-2 outbreak. Thusly, with the coming together of too much information, it caused the wrong and the right to be mixed with each other and the trust in the right information started to be affected as much. In the information age, this Infodemic phenomenon is amplified through social networks, spreading farther and faster like a virus._
 
  #### _The Story Of Problem_
  
