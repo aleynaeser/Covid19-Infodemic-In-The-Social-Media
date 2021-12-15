@@ -8,11 +8,6 @@
 #### _Covid-19 Infodemic and Misinformation In The Social Media_
 
 
- ## _Video_
- 
- 
- ####  https://drive.google.com/file/d/11W9px9GLArReEg1DuXkxkCIsM1KNfrrJ/view?usp=sharing
-
  
  ## _Step A:Problem Description_
  
